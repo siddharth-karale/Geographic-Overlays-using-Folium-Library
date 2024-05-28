@@ -1,4 +1,4 @@
-# Project 3: CO2 Emissions Visualization with Folium
+# CO2 Emissions Visualization with Folium
 
 This project explores CO2 emissions per capita data from the World Development Indicators Dataset using the Folium library. Folium allows us to create interactive maps with geographic overlays for data visualization.
 
